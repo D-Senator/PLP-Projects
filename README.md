@@ -1,2 +1,2 @@
 # PLP-Projects
-Every Assignmentsband projects during my PLP Academy Training
+Every Assignments and project during my PLP Academy Training
